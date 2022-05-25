@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_arrow_back_24.xml" value="0.1345" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2625" />
+        <entry key="app/src/main/res/layout/activity_schedule.xml" value="0.2625" />
+        <entry key="app/src/main/res/layout/activity_schedule2.xml" value="0.2625" />
+        <entry key="app/src/main/res/layout/activity_schedule3.xml" value="0.2625" />
+        <entry key="app/src/main/res/layout/activity_schedule4.xml" value="0.2625" />
+        <entry key="app/src/main/res/layout/activity_schedule5.xml" value="0.2625" />
+        <entry key="app/src/main/res/layout/cardview_schedule.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_day1.xml" value="0.25846153846153846" />
+        <entry key="app/src/main/res/layout/fragment_day2.xml" value="0.19537037037037036" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.bp_midterm1832">
+    package="com.example.bp1832_midterm">
 
     <application
         android:allowBackup="true"
@@ -10,22 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BPMidterm1832">
         <activity
-            android:name=".ui.course_schedule.day_5.Schedule5Activity"
+            android:name="com.example.bp1832_midterm.ui.course_schedule.day_5.Schedule5Activity"
             android:exported="false" />
         <activity
-            android:name=".ui.course_schedule.day_4.Schedule4Activity"
+            android:name="com.example.bp1832_midterm.ui.course_schedule.day_4.Schedule4Activity"
             android:exported="false" />
         <activity
-            android:name=".ui.course_schedule.day_3.Schedule3Activity"
+            android:name="com.example.bp1832_midterm.ui.course_schedule.day_3.Schedule3Activity"
             android:exported="false" />
         <activity
-            android:name=".ui.course_schedule.day_2.Schedule2Activity"
+            android:name="com.example.bp1832_midterm.ui.course_schedule.day_2.Schedule2Activity"
             android:exported="false" />
         <activity
-            android:name=".ui.course_schedule.ScheduleActivity"
+            android:name="com.example.bp1832_midterm.ui.course_schedule.ScheduleActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.MainActivity"
+            android:name="com.example.bp1832_midterm.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
